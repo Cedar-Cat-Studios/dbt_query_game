@@ -1,0 +1,150 @@
+id,order_id,index,name,amount
+1,1,1,Original Jaffle,15
+2,1,2,French Jaffle,16
+3,2,1,Iced Chocolate,7
+4,2,2,Soft Drink,4
+5,2,3,Sparkling Water,6
+6,2,4,French Fries,4
+7,3,1,French Fries,4
+8,4,1,Original Jaffle,15
+9,4,2,Iced Chocolate,7
+10,4,3,French Fries,4
+11,5,1,Mac & Cheese,4
+12,5,2,Iced Chocolate,7
+13,5,3,Roasted Chats,3.5
+14,6,1,American Jaffle,17
+15,7,1,Original Jaffle,15
+16,8,1,Original Jaffle,15
+17,8,2,Iced Coffee,7
+18,8,3,Soft Drink,4
+19,8,4,Water,3.5
+20,9,1,Roasted Chats,3.5
+21,9,2,Veggie Jaffle,15
+22,9,3,Water,3.5
+23,9,4,Original Jaffle,15
+24,9,5,Soft Drink,4
+25,10,1,Sparkling Water,6
+26,11,1,British Jaffle,18
+27,11,2,Italian Jaffle,16
+28,12,1,Roasted Chats,3.5
+29,13,1,American Jaffle,17
+30,14,1,French Jaffle,16
+31,15,1,French Fries,4
+32,15,2,American Jaffle,17
+33,15,3,Mac & Cheese,4
+34,16,1,Iced Chocolate,7
+35,16,2,American Jaffle,17
+36,17,1,Veggie Jaffle,15
+37,17,2,Water,3.5
+38,18,1,British Jaffle,18
+39,19,1,Iced Chocolate,7
+40,20,1,Iced Coffee,7
+41,20,2,French Fries,4
+42,22,1,American Jaffle,17
+43,22,2,Mac & Cheese,4
+44,22,3,Iced Chocolate,7
+45,22,4,Mac & Cheese,4
+46,24,1,Soft Drink,4
+47,24,2,American Jaffle,17
+48,25,1,Iced Coffee,7
+49,27,1,American Jaffle,17
+50,27,2,Sparkling Water,6
+51,30,1,Soft Drink,4
+52,30,2,Roasted Chats,3.5
+53,31,1,Mac & Cheese,4
+54,31,2,Roasted Chats,3.5
+55,31,3,Original Jaffle,15
+56,32,1,Water,3.5
+57,33,1,Water,3.5
+58,34,1,Iced Chocolate,7
+59,35,1,Soft Drink,4
+60,39,1,Iced Coffee,7
+61,40,1,Soft Drink,4
+62,41,1,French Fries,4
+63,42,1,French Jaffle,16
+64,50,1,American Jaffle,17
+65,51,1,Original Jaffle,15
+66,52,1,Iced Chocolate,7
+67,53,1,Roasted Chats,3.5
+68,53,2,Roasted Chats,3.5
+69,54,1,Original Jaffle,15
+70,56,1,Original Jaffle,15
+71,56,2,Mac & Cheese,4
+72,57,1,Roasted Chats,3.5
+73,58,1,Italian Jaffle,16
+74,59,1,Veggie Jaffle,15
+75,59,2,Iced Chocolate,7
+76,59,3,Mac & Cheese,4
+77,61,1,French Fries,4
+78,62,1,Sparkling Water,6
+79,64,1,Water,3.5
+80,66,1,Sparkling Water,6
+81,66,2,French Jaffle,16
+82,69,1,British Jaffle,18
+83,70,1,American Jaffle,17
+84,70,2,British Jaffle,18
+85,70,3,Original Jaffle,15
+86,71,1,Veggie Jaffle,15
+87,73,1,American Jaffle,17
+88,73,2,British Jaffle,18
+89,73,3,American Jaffle,17
+90,74,1,Soft Drink,4
+91,75,1,French Fries,4
+92,79,1,Iced Chocolate,7
+93,79,2,Iced Coffee,7
+94,83,1,Original Jaffle,15
+95,84,1,Iced Coffee,7
+96,84,2,Iced Chocolate,7
+97,86,1,Sparkling Water,6
+98,89,1,British Jaffle,18
+99,91,1,Italian Jaffle,16
+100,91,2,American Jaffle,17
+101,92,1,Original Jaffle,15
+102,92,2,Water,3.5
+103,94,1,Soft Drink,4
+104,94,2,Soft Drink,4
+105,95,1,Italian Jaffle,16
+106,95,2,Roasted Chats,3.5
+107,96,1,Water,3.5
+108,96,2,Italian Jaffle,16
+109,96,3,Soft Drink,4
+110,21,1,Roasted Chats,3.5
+111,23,1,Original Jaffle,15
+112,26,1,Original Jaffle,15
+113,28,1,Mac & Cheese,4
+114,29,1,Roasted Chats,3.5
+115,36,1,Italian Jaffle,16
+116,37,1,Veggie Jaffle,15
+117,38,1,Iced Chocolate,7
+118,43,1,Mac & Cheese,4
+119,44,1,French Fries,4
+120,45,1,Sparkling Water,6
+121,46,1,Water,3.5
+122,47,1,Sparkling Water,6
+123,48,1,French Jaffle,16
+124,49,1,British Jaffle,18
+125,49,2,American Jaffle,17
+126,55,1,British Jaffle,18
+127,60,1,Original Jaffle,15
+128,63,1,Veggie Jaffle,15
+129,65,1,American Jaffle,17
+130,67,1,British Jaffle,18
+131,67,2,American Jaffle,17
+132,68,1,Soft Drink,4
+133,72,1,French Fries,4
+134,76,1,Iced Chocolate,7
+135,77,1,Iced Coffee,7
+136,77,2,Original Jaffle,15
+137,78,1,Iced Coffee,7
+138,80,1,Iced Chocolate,7
+139,81,1,Sparkling Water,6
+140,82,1,British Jaffle,18
+141,85,1,Italian Jaffle,16
+142,87,1,American Jaffle,17
+143,87,2,Original Jaffle,15
+144,88,1,Water,3.5
+145,90,1,Soft Drink,4
+146,93,1,Soft Drink,4
+147,97,1,Italian Jaffle,16
+148,98,1,Roasted Chats,3.5
+149,99,1,Water,3.5

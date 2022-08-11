@@ -1,0 +1,21 @@
+version: 2
+
+sources: 
+  - name: query_game
+    database: "{{ var('query_game_database', target.database) }}"
+    schema: "{{ var('query_game_schema', 'sql_puzzle')}}"
+
+    tables:        
+      - name: player_results
+        description: Table containing the players past query results within the game.
+        columns:
+          - name: date
+            description: Reference to the query posed on a specific date.
+          - name: player_id
+            description: Unique identifier of the player.
+          - name: attempts
+            description: Number of attempts it took the player to solve the query.
+          - name: is_solved
+            description: Field identifying if the player solved the query or not. 1 equates to solved, -1 equates to not solved.
+          - name: attempt_time
+            description: The timestamp of when the player attempted the daily query.
