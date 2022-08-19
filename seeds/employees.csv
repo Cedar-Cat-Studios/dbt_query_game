@@ -1,0 +1,19 @@
+id,first_name,last_name,location_id,title,date_hired
+1,Cedar,M.,11,Jaffle Head Chef,2018-01-01
+2,Joe,M.,20,Jaffle Sioux Chef,2018-02-01
+3,Jess,K.,17,CEO,2018-03-04
+4,David,M.,19,CTO,2018-04-04
+5,Grace,K.,10,Host,2018-05-05
+6,Eduardo,Z.,8,CMO,2018-06-05
+7,Michelle,Z.,18,Manager,2018-07-06
+8,Lisa,F.,20,First Aid,2018-08-06
+9,Parker,F.,20,Waiter,2018-09-06
+10,Brett,F.,14,CFO,2018-10-07
+11,Lucas,F.,16,Waiter,2018-11-07
+12,Nico,Z.,12,Waiter,2018-12-08
+13,Erica,M.,6,HR,2019-01-08
+14,Callum,M.,11,Chief Analytics Officer,2019-02-08
+15,Connor,B.,1,Head of Jaffle Growth,2019-03-11
+16,Craig,P.,3,Waiter,2019-04-11
+17,Jeremy,K.,1,Produce Procurer,2019-05-12
+18,Jon,K.,8,Jaffle Procurer,2019-06-12

@@ -1,0 +1,50 @@
+id,order_id,type,percentage
+1,60,appreciation,0.2
+2,43,friend,0.1
+3,58,survey,0.1
+4,59,employee,0.5
+5,88,survey,0.5
+6,87,employee,0.15
+7,19,employee,0.15
+8,51,bad service,0.2
+9,100,employee,0.5
+10,16,bad service,0.5
+11,51,survey,0.2
+12,58,bad service,0.2
+13,24,appreciation,0.5
+14,35,employee,0.1
+15,59,bad service,0.1
+16,7,friend,0.2
+17,9,bad service,0.2
+18,36,appreciation,0.5
+19,30,bad service,0.25
+20,10,friend,0.5
+21,78,survey,0.5
+22,78,friend,0.25
+23,67,employee,0.25
+24,36,appreciation,0.25
+25,46,employee,0.5
+26,98,bad service,0.15
+27,96,friend,0.5
+28,70,survey,0.15
+29,63,bad service,0.1
+30,21,bad service,0.1
+31,84,bad service,0.5
+32,81,employee,0.5
+33,43,appreciation,0.1
+34,54,employee,0.1
+35,49,bad service,0.15
+36,5,friend,0.1
+37,78,friend,0.15
+38,93,friend,0.5
+39,53,bad service,0.5
+40,99,employee,0.5
+41,91,bad service,0.25
+42,36,friend,0.2
+43,55,bad service,0.15
+44,73,employee,0.15
+45,13,bad service,0.25
+46,45,appreciation,0.15
+47,48,friend,0.1
+48,12,survey,0.25
+49,18,employee,0.15

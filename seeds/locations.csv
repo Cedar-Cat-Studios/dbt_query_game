@@ -1,21 +1,21 @@
-id,country,state_province,city
-1,United States,Illinois,Chicago
-2,United States,Illinois,Oak Lawn
-3,United States,Illinois,Libertyville
-4,United States,Iowa,Des Moines
-5,United States,New York,New York
-6,United States,California,Oakland
-7,United States,California,San Francisco
-8,United States,California,Los Angeles
-9,United States,California,Cero Gordo
-10,United States,Washington,Seattle
-11,United States,California,San Jose
-12,United States,Texas,San Antonio
-13,Canada,Ontario,Toronto
-14,Canada,Quebec,Montreal
-15,United States,Pennsylvania,Philadelphia
-16,United States,Wisconsin,Milwaukee
-17,Australia,Victoria,Melbourne
-18,Australia,New South Wales,Sydney
-19,Italy,Tuscany,Florence
-20,Italy,Lazio,Rome
+id,country,state_province,city,date_opened
+1,United States,Illinois,Chicago,2018-01-01
+2,United States,Illinois,Oak Lawn,2018-02-01
+3,United States,Illinois,Libertyville,2018-03-04
+4,United States,Iowa,Des Moines,2018-04-04
+5,United States,New York,New York,2018-05-05
+6,United States,California,Oakland,2018-06-05
+7,United States,California,San Francisco,2018-07-06
+8,United States,California,Los Angeles,2018-08-06
+9,United States,California,Cero Gordo,2018-09-06
+10,United States,Washington,Seattle,2018-10-07
+11,United States,California,San Jose,2018-11-07
+12,United States,Texas,San Antonio,2018-12-08
+13,Canada,Ontario,Toronto,2019-01-08
+14,Canada,Quebec,Montreal,2019-02-08
+15,United States,Pennsylvania,Philadelphia,2019-03-11
+16,United States,Wisconsin,Milwaukee,2019-04-11
+17,Australia,Victoria,Melbourne,2019-05-12
+18,Australia,New South Wales,Sydney,2019-06-12
+19,Italy,Tuscany,Florence,2019-07-13
+20,Italy,Lazio,Rome,2019-08-13
