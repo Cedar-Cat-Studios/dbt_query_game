@@ -1,0 +1,10 @@
+contact_links:
+  - name: Download QUERY; on the Apple App Store.
+    url: tbd
+    about: QUERY; can be played on all MacOS computers by downloading via the Apple App Store.
+  - name: Download QUERY; on the Google Play store.
+    url: tbd
+    about: QUERY; can be played on all Windows computers by downloading via the Google Play store.
+  - name: Sponsor this project
+    url: https://github.com/sponsors/JoeMark17
+    about: QUERY; is a free to play game that requires many hours of maintenance and BigQuery costs. Support the project to help make sure it continues!

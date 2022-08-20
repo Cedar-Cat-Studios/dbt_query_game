@@ -1,0 +1,22 @@
+name: 😱 Player Data Issue
+description: Does your daily stats data look off? Share more info to have it be fixed.
+title: "[Player Data Issue] <title>"
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for using the Fivetran dbt package and for taking the time to fill out this Player Data Issue. Your contributions help improve this package for the entire community of users!
+  - type: textarea
+    attributes:
+      label: Describe the Player Data Issue
+      description: Please provide a clear and concise explanation of what looks wrong about your daily stats data.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What do you feel the results of your Player Data stats should be?
+      description: |
+        Do you have an idea of what your stats should be? If so, please share more details here.
+    validations:
+      required: true

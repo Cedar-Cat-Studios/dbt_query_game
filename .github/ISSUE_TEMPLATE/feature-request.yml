@@ -1,0 +1,29 @@
+name: 🎉 Feature
+description: Suggest a new feature you would like QUERY; to include.
+title: "[Feature] <title>"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for playing QUERY; and for taking the time to fill out this feature request. Your contributions help improve this game for the entire community of players!
+  - type: checkboxes
+    attributes:
+      label: Is there an existing feature request for this?
+      description: Please search to see if an issue already exists for the feature you would like.
+      options:
+        - label: I have searched the existing issues
+          required: true
+  - type: textarea
+    attributes:
+      label: Describe the Feature
+      description: A clear and concise description of what feature you would like QUERY; to add.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about the feature you are suggesting!
+    validations:
+      required: false
