@@ -1,10 +1,10 @@
 # QUERY; the daily SQL video game
 
-This dbt project is an open source glimpse into the inner workings of the [QUERY;](tbd) video game. This repo contains all previous queries used from the game within the [daily_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/daily_queries) folder. Other queries used in the background can be found and explored within the [background_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/background_queries) folder. In addition to providing more insight into the QUERY; game, this project is designed for the community to engage with the developer and contribute to the games codebase.
+This dbt project is an open source glimpse into the inner workings of the QUERY; video game. This repo contains all previous queries used from the game within the [daily_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/daily_queries) folder. Other queries used in the background can be found and explored within the [background_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/background_queries) folder. In addition to providing more insight into the QUERY; game, this project is designed for the community to engage with the developer and contribute to the games codebase.
 
 ## 🎮 Play the Game
 
-QUERY; is available to play on both MacOS and Windows. You can download the and play using either the [Apple App Store](tbd) or [Google Play](tbd) links. Be sure to come back each day to test your sql strength!
+QUERY; is available to play on both MacOS and Windows. You can download the game and play using either the [Apple App Store](tbd) or [Google Play](tbd) links. Be sure to come back each day to test your sql strength!
 
 ## 😻 Contribute to the Game
 The QUERY; game was developed for the community to allow players to strengthen, build, and develop their sql skills while having fun. As the game was designed with the community in mind, this repo is intended to be used for players to contribute their own queries to the game and have a chance to be featured as a daily query in the game! Sound like fun? Here is how you can contribute:
@@ -41,7 +41,7 @@ limit 1
 With your `.sql` file added to your fork, you can open the PR against this repo! Be sure to follow the prompts when completing the PR and continue playing to see if your query is featured in the game! If your query is featured, your PR will be lightly edited and merged into this repo.
 
 ## 💝 Support the Dev
-[@JoeMark17](https://github.com/JoeMark17) is the sole developer of the QUERY; game. All queries run within the QUERY; game are executed and billed against a BigQuery project maintained by the individual developer. If you would like to support the developers efforts to keep the QUERY; game (and the BigQuery project) funded, then you can sponsor this repo or contribute via [PayPal](tbd). Any and all support is greatly appreciated!
+[@JoeMark17](https://github.com/JoeMark17) is the sole developer of the QUERY; game. All queries run within the QUERY; game are executed and billed against a BigQuery project maintained by the individual developer. If you would like to support the developer's efforts to keep the QUERY; game (and the BigQuery project) funded, then you can sponsor this repo or contribute via [PayPal](tbd). Any and all support is greatly appreciated!
 
 ## 🎉 Help Improve the Game
 QUERY; is continually maintained and iterated upon by the developer. If you would like to suggest new features or raise bugs, you can do so within the [Issues](https://github.com/Cedar-Cat-Studios/dbt_query_game/issues) section of this repository.
