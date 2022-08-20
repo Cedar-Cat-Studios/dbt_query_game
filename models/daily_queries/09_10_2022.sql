@@ -5,4 +5,4 @@ select
 from {{ ref('order_lines') }}
 group by 1
 order by total_units desc
-limit 1
+limit 1 
