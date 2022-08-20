@@ -14,6 +14,7 @@ This project contains all the relevant seed data (shout out to the OG Jaffle Sho
 ```zsh
 dbt seed -s +dbt_query_game
 ```
+<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/cedar-cat-studios/diagrams/jaffle-shop/embed"></iframe>
 
 ### Step 2: Explore the Data
 Now that the data used for the QUERY; game is in your warehouse, you can explore as much as you like. I challenge you to come up with a question (ideally that a friendly neighborhood stakeholder would ask) and answer the question with a query.
