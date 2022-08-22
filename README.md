@@ -22,7 +22,7 @@ dbt seed -s +dbt_query_game
 Now that the data used for QUERY; is in your warehouse, you can explore as much as you like. I challenge you to come up with a question (ideally one a friendly neighborhood stakeholder would ask) and answer the question with your own query.
 
 ### Step 3: Generate Your Query
-Once you have a question and query, you can and add your question/query to the [daily_queries](/daily_queries) folder as a `.sql` file with the naming convention of `<github username>_<date>.sql`. The contents of your `.sql` file should follow the format outlined below:
+Once you have a question and query, you can and add your question/query to the [daily_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/daily_queries) folder as a `.sql` file with the naming convention of `<github username>_<date submitted>.sql`. The contents of your `.sql` file should follow the format outlined below:
 
 ```sql
 -- What is our best all time selling item?
