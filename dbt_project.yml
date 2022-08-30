@@ -18,3 +18,20 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 models:
   +materialized: table
+
+seeds:
+  dbt_query_game:
+    background_seeds:
+      player_data:
+        +column_types:
+          id: string
+      question_vault:
+        +column_types:
+          model_ref: string
+          question: string
+          columns_used: string
+          query: string
+      player_results:
+        +column_types:
+          date: string
+          player_id: string
