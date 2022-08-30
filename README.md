@@ -10,7 +10,17 @@ QUERY; is available to play on both MacOS and Windows. You can download the game
 The QUERY; game was developed for the community to allow players to strengthen, build, and develop their sql skills while having fun. As the game was designed with the community in mind, this repo is intended to be used for players to contribute their own queries to the game and have a chance to be featured as a daily query in the game! Sound like fun? Here is how you can contribute:
 
 ### Step 1: Seed the Schema
-This project contains all the relevant seed data (shout out to the OG Jaffle Shop dataset) used within the QUERY; game. You can fork this dbt project (be sure to have [dbt installed](https://docs.getdbt.com/dbt-cli/install/overview)) and seed the data into your respective warehouse. Once you have the project installed you may simply seed the data with the following command:
+This project contains all the relevant seed data (shout out to the OG Jaffle Shop dataset) used within the QUERY; game. You can either install the project as a dbt package, or fork this dbt project (be sure to have [dbt installed](https://docs.getdbt.com/dbt-cli/install/overview)) and seed the data into your respective warehouse.
+
+If you choose to install this project as a dbt package, you can simply include the following in your `packages.yml` within your root dbt project:
+```yml
+packages:
+  - git: https://github.com/Cedar-Cat-Studios/dbt_query_game.git
+    revision: main
+    warn-unpinned: false
+```
+
+Once you have the project installed or forked you may simply seed the data with the following command:
 ```zsh
 dbt seed -s +dbt_query_game
 ```
@@ -22,7 +32,7 @@ dbt seed -s +dbt_query_game
 Now that the data used for QUERY; is in your warehouse, you can explore as much as you like. I challenge you to come up with a question (ideally one a friendly neighborhood stakeholder would ask) and answer the question with your own query.
 
 ### Step 3: Generate Your Query
-Once you have a question and query, you can and add your question/query to the [community_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/community_queries) folder as a `.sql` file with the naming convention of `<github username>_<number of PRs you have opened on this repo>.sql` (your first file name should end with `_1`). The contents of your `.sql` file should follow the format outlined below:
+Once you have a question and query, you may take the next step in contributing your query. Before you may proceed, you must create a fork of this project. Once you have a forked version of this project, you can and add your question/query to the [community_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/community_queries) folder as a `.sql` file with the naming convention of `<github username>_<number of PRs you have opened on this repo>.sql` (your first file name should end with `_1`). The contents of your `.sql` file should follow the format outlined below:
 
 ```sql
 -- What is our best all time selling item?

@@ -3,4 +3,3 @@ target/
 dbt_packages/
 logs/
 models/future_queries/
-seeds/background_seeds/
