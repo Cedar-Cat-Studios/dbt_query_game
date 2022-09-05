@@ -1,4 +1,5 @@
 -- What are the first and last names of all employees and the city in which they are located?
+
 select
   first_name,
   last_name,
