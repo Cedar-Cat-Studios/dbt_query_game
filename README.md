@@ -4,7 +4,7 @@ This dbt project is an open source glimpse into the inner workings of the QUERY;
 
 ## 🎮 Play the Game
 
-QUERY; is available to play on both MacOS and Windows. You can download the game and play using either the [Apple App Store](tbd) (for MacOS) or [itch.io](https://cedarcatstudios.itch.io/query) (for Windows). Be sure to come back each day to test your sql strength!
+QUERY; is currently only available to play on MacOS. You can download the game and play using the [Apple App Store](https://apps.apple.com/us/app/query/id1636590940?mt=12). Be sure to come back each day to test your sql strength!
 
 ## 😻 Contribute to the Game
 The QUERY; game was developed for the community to allow players to strengthen, build, and develop their sql skills while having fun. As the game was designed with the community in mind, this repo is intended to be used for players to contribute their own queries to the game and have a chance to be featured as a daily query in the game! Sound like fun? Here is how you can contribute:

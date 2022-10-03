@@ -1,3 +1,7 @@
--- This model helps flag days that may not have questions.
+-- Show me the First Name and Last Name of all customers who are loalty members.
 
-select 1 as no_query_today
+select 
+    first_name,
+    last_name
+from {{ ref('customers') }}
+where is_loyalty_member
