@@ -44,7 +44,7 @@ group by 1
 order by total_units desc
 limit 1
 ```
-
+ 
 >**Note**: You will want to include the question as a comment at the top, and the query below which answers the question.
 
 ### Step 4: Submit a PR
