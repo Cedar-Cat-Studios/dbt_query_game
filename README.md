@@ -1,4 +1,4 @@
-# QUERY; the daily SQL video game
+# QUERY; the daily SQL video game 
 
 This dbt project is an open source glimpse into the inner workings of the QUERY; video game. This repo contains all previous queries used from the game within the [daily_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/daily_queries) folder. Other queries used in the background can be found and explored within the [background_queries](https://github.com/Cedar-Cat-Studios/dbt_query_game/tree/main/models/background_queries) folder. In addition to providing more insight into the QUERY; game, this project is designed for the community to engage with the developer and contribute to the games codebase!
 
