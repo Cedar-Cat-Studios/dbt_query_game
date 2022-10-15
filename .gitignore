@@ -3,3 +3,4 @@ target/
 dbt_packages/
 logs/
 models/future_queries/
+.DS_Store
