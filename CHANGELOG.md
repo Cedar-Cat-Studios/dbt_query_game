@@ -8,7 +8,7 @@
 
 ## Under the Hood
 - Added an MIT license to the project. ([#16](https://github.com/Cedar-Cat-Studios/dbt_query_game/pull/16))
-- GitHub template updates for easier contributing by community members.
+- GitHub template updates for easier contributing by community members. ([#19](https://github.com/Cedar-Cat-Studios/dbt_query_game/pull/19))
 
 ## Contributors
 - [@evajaum](https://github.com/evajaum) ([#18](https://github.com/Cedar-Cat-Studios/dbt_query_game/pull/18))
