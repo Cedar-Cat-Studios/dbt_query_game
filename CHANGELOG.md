@@ -3,6 +3,7 @@
 ## October Daily Puzzle Releases
 - The release includes the following updates to the QUERY; dbt project:
     - Daily Queries from 10/19/2022 -> 11/01/2022
+    - Inclusion of the October `question_vault.csv` file. This file contains the question and answer architecture used by the QUERY; gameplay engine. A new monthly question_vault file will accompany each monthly release moving forward.
     - Addition of a new QUERY; submission to the `community_queries` folder. See the Contributors section below for more details
 
 ## Under the Hood
