@@ -3,4 +3,6 @@ target/
 dbt_packages/
 logs/
 models/future_queries/
+seeds/question_vaults/october_2022.csv
+seeds/question_vaults/november_2022.csv
 .DS_Store

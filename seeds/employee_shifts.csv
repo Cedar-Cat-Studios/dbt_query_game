@@ -17,7 +17,7 @@ id,employee_id,start_at,end_at,day_of_week
 16,5,10,15,FRI
 17,5,10,15,SAT
 18,5,8,12,SUN
-19,6,13,18,THUR
+19,6,13,18,THU
 20,6,13,18,FRI
 21,6,13,18,SUN
 22,7,8,10,SUN
