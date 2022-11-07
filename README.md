@@ -6,6 +6,9 @@ This dbt project is an open source glimpse into the inner workings of the QUERY;
 
 QUERY; is currently only available to play on MacOS. You can download the game and play using the [Apple App Store](https://apps.apple.com/us/app/query/id1636590940?mt=12). Be sure to come back each day to test your sql strength!
 
+## 🎥 Watch the Launch Presentation
+QUERY; was officially launched on 10/16/2022. The release took place following a presentation at dbt Labs' 2022 Coalesce conference. If you missed the QUERY; launch presentation you can catch the recording [here](https://www.youtube.com/watch?v=gzr4CbeVY5s).
+
 ## 😻 Contribute to the Game
 The QUERY; game was developed for the community to allow players to strengthen, build, and develop their sql skills while having fun. As the game was designed with the community in mind, this repo is intended to be used for players to contribute their own queries to the game and have a chance to be featured as a daily query in the game! Sound like fun? Here is how you can contribute:
 
