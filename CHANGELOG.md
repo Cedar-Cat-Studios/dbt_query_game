@@ -1,3 +1,8 @@
+# dbt_query_game v0.1.2
+
+## Documentation Updates
+- Added a section to the README that includes an overview about the QUERY; launch at dbt Coalesce.
+
 # dbt_query_game v0.1.1
 
 ## October Daily Puzzle Releases
